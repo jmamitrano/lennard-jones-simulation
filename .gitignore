@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Simulation outputs (keep only curated artifacts)
+outputs/*
+!outputs/*.gif
+!outputs/*_energy.png
+!outputs/.gitkeep
+
