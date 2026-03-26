@@ -19,12 +19,6 @@ It includes two modes:
 pip install -r requirements.txt
 ```
 
-Optional (for GIF export):
-
-```bash
-pip install pillow
-```
-
 ## How To Run
 
 Example (N-particle gas in a box):
