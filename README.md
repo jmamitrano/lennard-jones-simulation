@@ -61,4 +61,4 @@ Outputs are saved to `outputs/`:
 
 ## Results
 
-![Simulation](results/final.png)
+![Simulation](gas_nve_energy_gif.gif)
