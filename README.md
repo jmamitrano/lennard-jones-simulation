@@ -59,6 +59,10 @@ Outputs are saved to `outputs/`:
 - `--a` (robust only): soft-core length in units of `sigma` (defaults to 0.6 in robust, 0.0 in nve).
 - `--dv-target` and `--safety` (robust only): controls the aggressiveness of adaptive `dt`.
 
-## Results
+## Simulation Dynamics (Gas Scenario)
 
 ![Final state](outputs/gas_nve_energy_gif.gif)
+
+### Energy evolution (Two Particles Collision)
+
+![Energy](outputs/collision2_nve_energy.png)
